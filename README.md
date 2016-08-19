@@ -4,7 +4,7 @@ This repository shows 100 RSA public keys generated using bad PRNG's leading to 
 
 How to run the code:
 
-python factorize.py <path to the folder with the .pem files>
+python factorize.py \<path to the folder with the .pem files\>
 
 ex: python factorize.py ./RSAFiles/
 
